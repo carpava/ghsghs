@@ -11,13 +11,13 @@
  <ul>
   <li>Esquiar
    <p> Si te apetece hacer una pequeña espacada en Navidad, lugares como Sierra Morena, la Sierra de Béjar o Manzaneda son perfectos para pasar unos días esquiando </p>
-   <img src="https://terrenoalpino.com/huesca-esquiar/" alt= esquí width= 100> </li>
+   <img src=https://terrenoalpino.com/huesca-esquiar/ alt= esquí width= 100> </li>
   <li> Patinaje sobre hielo
   <p> Otro plan deportivo que se puede hacer por estas fechas es ir a patinar sobre hielo con tus amigos, familia... El lugar en el que se podrá hecer este año en Coruña es el Muelle de Calvo Sotelo</p>
-  <img src="https://hollywoodlife.com/feature/who-is-kamila-valieva-4647211/" alt= patinaje sobre hielo width= 100></li>
+  <img src=https://hollywoodlife.com/feature/who-is-kamila-valieva-4647211/ alt= patinaje sobre hielo width= 100></li>
   <li> Curling
   <p> Otro deporte menos conocido, pero igaul de divertido es el curling: una catividad que consiste en, por equipos, intentar que la bola de curling quede lo más cerca posible de un objetivo, "house"</p>
-  <img src=" https://www.google.com/imgres?q=curling&imgurl=https%3A%2F%2Fimg.olympics.com%2Fimages%2Fimage%2Fprivate%2Ft_social_share_thumb%2Ff_auto%2Fprimary%2Fiudmocntf47bca7lus1k&imgrefurl=https%3A%2F%2Folympics.com%2Fes%2Fdeportes%2Fcurling%2F&docid=2QQ07B0Xa5CabM&tbnid=LHphSlWyvCCloM&vet=12ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA" alt=curling width=100></li>
+  <img src= https://www.google.com/imgres?q=curling&imgurl=https%3A%2F%2Fimg.olympics.com%2Fimages%2Fimage%2Fprivate%2Ft_social_share_thumb%2Ff_auto%2Fprimary%2Fiudmocntf47bca7lus1k&imgrefurl=https%3A%2F%2Folympics.com%2Fes%2Fdeportes%2Fcurling%2F&docid=2QQ07B0Xa5CabM&tbnid=LHphSlWyvCCloM&vet=12ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA alt=curling width=100></li>
 
  </ul>
 
@@ -28,9 +28,8 @@
 
  
   <a href= https://recetasdecocina.elmundo.es/2023/01/roscon-de-reyes-receta-facil.html><img src="https://nosolodulces.es/wp-content/uploads/2016/12/nosolodulces-roscon-reyes-crema-pastelera-turron-casero.jpg" alt= Roscón de Reyes width=300></a>
-<a href= https://www.bonviveur.es/recetas/torrijas><img src="https://nosolodulces.es/wp-content/uploads/2015/03/nosolodulces-torrijas-cointreau-rellenas-mermelada-naranja-semana-santa-2.jpg
-" alt= Torrijas width=400></a>
-  <a href= https://www.pequerecetas.com/receta/galletas-navidad-recetas/><img src="https://images.pexels.com/photos/10425630/pexels-photo-10425630.jpeg" alt= Galletas navideñas width=300></a>
+<a href= https://www.bonviveur.es/recetas/torrijas><img src=https://nosolodulces.es/wp-content/uploads/2015/03/nosolodulces-torrijas-cointreau-rellenas-mermelada-naranja-semana-santa-2.jpg alt= Torrijas width=400></a>
+  <a href= https://www.pequerecetas.com/receta/galletas-navidad-recetas/><img src=https://images.pexels.com/photos/10425630/pexels-photo-10425630.jpg alt= Galletas navideñas width=300></a>
   
   <p> Además, te ofrecemos múltiples ideas para poder hacer unos <strong> deliciosos postres </strong> de temática navideña para poder entretenerte mientras los cocinas y para poder compartirlos y comerlos, disfrutando de unas sabrosas recetas, con tus familiares, amigos, compañeros...  
 <ol>
