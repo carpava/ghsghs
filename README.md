@@ -2,7 +2,7 @@
 <body>
   <h1> COSAS QUE HACER ESTA NAVIDAD</h1>
   <h4> Una página web en la que te ofreceos distintos plans ideales para poder hacer en estas festividades  </h4>
-<img src="https://www.akanapsicologia.com/la-emocion-en-la-navidad-no-tan-feliz-navidad/" alt= Navidades width =400>
+<img src=https://www.akanapsicologia.com/la-emocion-en-la-navidad-no-tan-feliz-navidad/ alt= Navidades width =400>
 
 <p> Las Navidades son una época del año adorada por la mayor parte de la gente; sin embargo, el mal tiempo hace que muchos nos quedemos sin ides de qué hacer y acabemos dentro de nuestras casas aburridos. Por ello, queremos ofrecer distintas actividades que se pueden hacer en estas queridas fechas. </p>
 <ul>
@@ -17,7 +17,7 @@
   <img src=https://hollywoodlife.com/feature/who-is-kamila-valieva-4647211/ alt= patinaje sobre hielo width= 100></li>
   <li> Curling
   <p> Otro deporte menos conocido, pero igaul de divertido es el curling: una catividad que consiste en, por equipos, intentar que la bola de curling quede lo más cerca posible de un objetivo, "house"</p>
-  <img src= https://www.google.com/imgres?q=curling&imgurl=https%3A%2F%2Fimg.olympics.com%2Fimages%2Fimage%2Fprivate%2Ft_social_share_thumb%2Ff_auto%2Fprimary%2Fiudmocntf47bca7lus1k&imgrefurl=https%3A%2F%2Folympics.com%2Fes%2Fdeportes%2Fcurling%2F&docid=2QQ07B0Xa5CabM&tbnid=LHphSlWyvCCloM&vet=12ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA alt=curling width=100></li>
+  <img src= https://www.google.com/imgresq=curling&imgurl=https%3A%2F%2Fimg.olympics.com%2Fimages%2Fimage%2Fprivate%2Ft_social_share_thumb%2Ff_auto%2Fprimary%2Fiudmocntf47bca7lus1k&imgrefurl=https%3A%2F%2Folympics.com%2Fes%2Fdeportes%2Fcurling%2F&docid=2QQ07B0Xa5CabM&tbnid=LHphSlWyvCCloM&vet=12ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwjT5PqViqKKAxXnT6QEHXN8KDwQM3oECGMQAA alt=curling width=100></li>
 
  </ul>
 
