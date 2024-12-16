@@ -36,7 +36,7 @@
  
   <a href= https://recetasdecocina.elmundo.es/2023/01/roscon-de-reyes-receta-facil.html><img src=https://nosolodulces.es/wp-content/uploads/2016/12/nosolodulces-roscon-reyes-crema-pastelera-turron-casero.jpg alt= Roscón de Reyes width=300></a>
 <a href= https://www.bonviveur.es/recetas/torrijas><img src=https://nosolodulces.es/wp-content/uploads/2015/03/nosolodulces-torrijas-cointreau-rellenas-mermelada-naranja-semana-santa-2.jpg alt= Torrijas width=400></a>
-  <a href= https://www.pequerecetas.com/receta/galletas-navidad-recetas> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7D4W97I2acI_2JpOFeZaukVrT0VNzvNA_g&s alt= Galletas navideñas width=300></a>
+  <a href= https://www.pequerecetas.com/receta/galletas-navidad-recetas><img src= "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7D4W97I2acI_2JpOFeZaukVrT0VNzvNA_g&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7D4W97I2acI_2JpOFeZaukVrT0VNzvNA_g&s)" alt= Galletas navideñas width=300></a>
   
  </ul> 
 
