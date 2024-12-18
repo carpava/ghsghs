@@ -1,8 +1,8 @@
 let miImage = document.querySelector("img");
 miImage.onclick = function () {
   let miSrc = miImage.getAttribute("src");
-  if (miSrc === "https://siguenzacomunica.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-30-at-13.40.02-1024x682.jpeg") {
-    miImage.setAttribute("src", "https://www.euskalgym.com/wp-content/uploads/2019/09/Kaleyn-1536x1058.jpg");
+  if (miSrc === "https://camo.githubusercontent.com/08dea93d2945dd27a5578c46682f8160937932a151fcdad87dae9c3d892d2c08/68747470733a2f2f696d616765732e726177706978656c2e636f6d2f696d6167655f313330302f637a4e6d63793177636d6c325958526c4c334a68643342706547567358326c745957646c637939335a574a7a6158526c58324e76626e526c626e51766248497664584233617a59784f5441304e6a4d334c58647061326c745a575270595331706257466e5a53317262336468634768754e6935716347632e6a7067") {
+    miImage.setAttribute("src", "https://www.pexels.com/es-es/foto/754173/");
   } else {
     miImage.setAttribute("src", "https://siguenzacomunica.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-30-at-13.40.02-1024x682.jpeg");
   }
