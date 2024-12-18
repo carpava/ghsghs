@@ -41,6 +41,18 @@
  </ul> 
 
 <ol>
+  <p> PD: Haz click en la foto de arriba y verás como se produce la magia</p>
+  <script>
+    let miImage = document.querySelector("img");
+miImage.onclick = function () {
+  let miSrc = miImage.getAttribute("src");
+  if (miSrc === "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxOTA0NjM3LXdpa2ltZWRpYS1pbWFnZS1rb3dhcGhuNi5qcGc.jpg") {
+    miImage.setAttribute("src", "https://www.pexels.com/es-es/foto/754173/");
+  } else {
+    miImage.setAttribute("src", "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxOTA0NjM3LXdpa2ltZWRpYS1pbWFnZS1rb3dhcGhuNi5qcGc.jpg");
+  }
+};
+  </script>
   </body>
  
 </html>
